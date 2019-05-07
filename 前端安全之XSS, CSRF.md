@@ -45,7 +45,7 @@ CSRF, 又名**跨站请求伪造**(`Cross-Site Request Forgery`). 攻击者诱�
 2. 在第三方页面上添加一个`form`表单
 3. 用户通过点击该表单, 跳转到正常页面, 从而实现一系列操作, 比如转账或XSS等.
 
-<video src="https://github.com/xiaoyueguang/blog/blob/master/assets/security-csrf.mov">
+<video src="https://github.com/xiaoyueguang/blog/blob/master/assets/security-csrf.mp4">
 
 [查看源码](https://github.com/xiaoyueguang/security)
 
